@@ -1,2 +1,3 @@
+Fortalecer las  habilidades de programación con Python, uno de los lenguajes más utilizados. 
+Aprende conceptos como funciones, comprehensions, errores y manejo de archivos que elevarán tu nivel al programar. Crea un gran proyecto junto a tu profesor Nicolas Molina.
 
-![image](https://github.com/andrethydavid/Mejorar_python/assets/72534486/2214cb7e-43f2-43ec-b127-ac7cbd1f746e)
