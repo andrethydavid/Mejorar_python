@@ -1,4 +1,7 @@
-Fortalecer las  habilidades de programación con Python, uno de los lenguajes más utilizados. 
+# PYTHON  🐍
+Fortalecer las  habilidades de programación con Python, uno de los lenguajes más utilizado
+
+
 Aprende conceptos como funciones, comprehensions, errores y manejo de archivos que elevarán tu nivel al programar. Crea un gran proyecto junto a tu profesor Nicolas Molina.
 
 * Crea y utiliza funciones y módulos para reutilizar código.
